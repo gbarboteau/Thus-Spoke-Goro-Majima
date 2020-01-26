@@ -1,6 +1,6 @@
 import json
 import random
-import sys
+import sys 
 
 #The first argument you write on the command line will be the file containing every characters, the second will contain every quotes
 #I used the scrapy library to collect those datas, look inside the spiders folder for those scripts
